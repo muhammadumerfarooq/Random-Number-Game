@@ -1,3 +1,5 @@
+App Flow, User1 inputs guess no then User2 will guess the number also a hint of guess no is given that shows the input no is smaller or higher than guessed number
+
 --- 1 ---
 <img src="https://user-images.githubusercontent.com/25977782/88484449-e5bb1880-cf87-11ea-9677-20e146c06778.png" width="15%"></img>
 --- 2 ---
